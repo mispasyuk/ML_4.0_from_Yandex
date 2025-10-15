@@ -1,0 +1,1 @@
+Repository with homework tasks from ML trainings 4.0 (Yandex). All tasks from notebooks (only certain functions were needed to submit) passed all tests in yandex contest and were assessed with max points.
